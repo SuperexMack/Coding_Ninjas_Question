@@ -33,6 +33,6 @@ vector<vector<int>> pairSum(vector<int> &arr, int s)
 int main()
 {
 
-    vector<int> arr = {2, -6, 2, 5, 2};
+    vector<int> arr = {1, -6, 2, 5, 1};
     pairSum(arr, 4);
 }
